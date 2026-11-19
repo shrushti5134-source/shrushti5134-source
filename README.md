@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shrushti Shelgave
 
 ### 💻 Aspiring Data Analyst | Python | SQL | Machine Learning | AI
-
+  
 \<p align="center">   \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Exploring+Machine+Learning+%26+AI;Building+Real-World+Data+Projects](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Turning+Data+into+Insights;Exploring+Machine+Learning+%26+AI;Building+Real-World+Data+Projects)" alt="Typing introduction" /> \</p>
 
 \<p align="center">   \<img src="[https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge](https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Role-Aspiring%20Data%20Analyst-success?style=for-the-badge](https://img.shields.io/badge/Role-Aspiring%20Data%20Analyst-success?style=for-the-badge)" /> \</p>
