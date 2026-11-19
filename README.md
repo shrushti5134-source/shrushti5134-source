@@ -1,10 +1,15 @@
 # 👋 Hi, I'm Shrushti Shelgave
 
 ### 💻 Aspiring Data Analyst | Python | SQL | Machine Learning | AI
-  
-\<p align="center">   \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Exploring+Machine+Learning+%26+AI;Building+Real-World+Data+Projects](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Turning+Data+into+Insights;Exploring+Machine+Learning+%26+AI;Building+Real-World+Data+Projects)" alt="Typing introduction" /> \</p>
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge](https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Role-Aspiring%20Data%20Analyst-success?style=for-the-badge](https://img.shields.io/badge/Role-Aspiring%20Data%20Analyst-success?style=for-the-badge)" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Exploring+Machine+Learning+%26+AI;Building+Real-World+Data+Projects](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Turning+Data+into+Insights;Exploring+Machine+Learning+%26+AI;Building+Real-World+Data+Projects)" alt="Typing introduction" />
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge](https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge)" />
+&#x20; \<img src="[https://img.shields.io/badge/Role-Aspiring%20Data%20Analyst-success?style=for-the-badge](https://img.shields.io/badge/Role-Aspiring%20Data%20Analyst-success?style=for-the-badge)" />
+\</p>
 
 ---
 
@@ -17,8 +22,8 @@ I enjoy exploring datasets, discovering patterns, building predictive models, an
 - 🎓 BSc Computer Science Graduate (2026)
 - 📊 Interested in Data Analytics and Business Intelligence
 - 🐍 Working with Python, Pandas, NumPy, and SQL
-- 🤖 Exploring Machine Learning, Deep Learning, and NLP
-- 🌱 Currently learning Power BI and strengthening my Excel skills
+- 🤖 Exploring Machine Learning, Deep Learning, NLP, and Generative AI
+- 🌱 Currently developing my skills in Power BI and Excel
 - 🚀 Building practical projects to solve real-world problems
 
 ---
@@ -27,20 +32,11 @@ I enjoy exploring datasets, discovering patterns, building predictive models, an
 
 ### Programming & Database
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" />
-\</p>
+\<p>   \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" /> \</p>
 
 ### Data Analysis & Visualization
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)" />
-\</p>
+\<p>   \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)" /> \</p>
 
 ### Machine Learning & AI
 
@@ -53,25 +49,20 @@ I enjoy exploring datasets, discovering patterns, building predictive models, an
 
 ### Tools & Platforms
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-\</p>
+\<p>   \<img src="[https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</p>
 
 ### Currently Learning
 
 \<p>
 &#x20; \<img src="[https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)" />
-&#x20; \<img src="[https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)" />
 \</p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 1. 🛒 E-Commerce Data Analysis
+### 🛒 1. E-Commerce Data Analysis
 
 **Technologies:** Python | Pandas | NumPy | Data Visualization
 
@@ -81,17 +72,17 @@ I enjoy exploring datasets, discovering patterns, building predictive models, an
 
 🔗 [View Project](https://github.com/shrushti5134-source/e-commerce)
 
-### 2. 🩺 Patient Blood Pressure Prediction
+### 🩺 2. Patient Blood Pressure Prediction
 
 **Technologies:** Python | Machine Learning | Scikit-learn | Streamlit
 
 - Built machine learning models to predict abnormal blood pressure.
 - Compared Random Forest, Decision Tree, and Logistic Regression.
-- Developed an interactive application for predictions.
+- Developed an interactive prediction application.
 
 🔗 [View Project](https://github.com/shrushti5134-source/Patient_with_Abnormal_bloodpressure)
 
-### 3. 🔍 Fake Job Posting Detection
+### 🔍 3. Fake Job Posting Detection
 
 **Technologies:** Python | NLP | Deep Learning | RNN
 
@@ -105,10 +96,7 @@ I enjoy exploring datasets, discovering patterns, building predictive models, an
 
 ## 📊 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=shrushti5134-source&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=shrushti5134-source\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" />
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shrushti5134-source&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=shrushti5134-source\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" />
-\</p>
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=shrushti5134-source&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=shrushti5134-source\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shrushti5134-source&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=shrushti5134-source\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" /> \</p>
 
 \<p align="center">
 &#x20; \<img src="[https://streak-stats.demolab.com?user=shrushti5134-source&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=shrushti5134-source\&theme=tokyonight\&hide_border=true)" />
@@ -127,23 +115,12 @@ I enjoy exploring datasets, discovering patterns, building predictive models, an
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-\<p>
-&#x20; \<a href="[https://github.com/shrushti5134-source](https://github.com/shrushti5134-source)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="YOUR_LINKEDIN_PROFILE_URL">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+\<p align="center">   \<a href="[https://github.com/shrushti5134-source](https://github.com/shrushti5134-source)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a>   \<a href="[https://www.linkedin.com/in/shrushti-shelgave-0287a234a/](https://www.linkedin.com/in/shrushti-shelgave-0287a234a/)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a> \</p>
 
-📧 Open to connecting about Data Analytics, Machine Learning, and AI opportunities.
+\<p align="center">   📩 Open to connecting with professionals and exploring opportunities in Data Analytics, Machine Learning, and AI. \</p>
 
 ---
 
-\<p align="center">
-&#x20; ⭐ \<b>Thanks for visiting my profile!\</b>&#x20;
-&#x20; \<br/>
-&#x20; Always learning, building, and growing with data.
-\</p>
+\<p align="center">   ⭐ Thanks for visiting my profile!   \<br/>   Always learning, building, and growing with data. \</p>
